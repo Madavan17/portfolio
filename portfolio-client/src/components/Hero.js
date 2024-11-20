@@ -7,7 +7,7 @@ export default function Hero() {
         social: {
             instagram: 'https://www.instagram.com/iam_madhavan_/#',
             Github: 'https://github.com/Madavan17/',
-            linkedin: 'www.linkedin.com/in/madhavan-sr'
+            linkedin: 'https://www.linkedin.com/in/madhavan-sr/',
         }
     }
 
