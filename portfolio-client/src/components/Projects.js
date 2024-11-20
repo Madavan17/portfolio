@@ -9,18 +9,18 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'A Ecommerce Website. Built with MERN Stack.',
-                link: 'https://github.com/Madavan17/'
+                link: 'https://dropit-1.onrender.com'
             },
-            {
-                image: websiteImg2,
-                description: 'Food Ecommerce website like Swiggy',
-                link: 'https://github.com/Madavan17/'
-            },
-            {
-                image: websiteImg3,
-                description: 'Basic Blog Website ',
-                link: 'https://github.com/Madavan17/'
-            }
+            // {
+            //     image: websiteImg2,
+            //     description: 'Food Ecommerce website like Swiggy',
+            //     link: 'https://github.com/Madavan17/'
+            // },
+            // {
+            //     image: websiteImg3,
+            //     description: 'Basic Blog Website ',
+            //     link: 'https://github.com/Madavan17/'
+            // }
         ]
     }
 
